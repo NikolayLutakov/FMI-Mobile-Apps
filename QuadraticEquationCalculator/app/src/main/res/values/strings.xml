@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuadraticEquationCalculator</string>
+    <string name="noRealRoots">No real roots.</string>
+    <string name="oneRootOnly">Only one root.</string>
+</resources>
